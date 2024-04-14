@@ -1,0 +1,172 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "Hey there!"
+    },
+    {
+      "question": "hi",
+      "answer": "Hi! How can I help you?"
+    },
+    {
+      "question": "hey",
+      "answer": "Hey! What's up?"
+    },
+    {
+      "question": "how are you",
+      "answer": "I'm good, thank you! How about you?"
+    },
+    {
+      "question": "what's up",
+      "answer": "Not much, just chatting with you!"
+    },
+    {
+      "question": "who are you",
+      "answer": "I'm a chatbot programmed to help you with your queries about good health."
+    },
+    {
+      "question": "where are you from",
+      "answer": "I was made by David Youssef, for the Future Hacks 6 hackathon!"
+    },
+    {
+      "question": "do you like pizza",
+      "answer": "I don't have taste buds, but if I did I would prefer to eat something healthier"
+    },
+    {
+      "question": "tell me a joke",
+      "answer": "Why don't scientists trust atoms? Because they make up everything!"
+    },
+    {
+      "question": "can you help me",
+      "answer": "Of course! Ask me any questions you have about being healthy"
+    },
+    {
+      "question": "thank you",
+      "answer": "You're welcome!"
+    },
+    {
+      "question": "what type of exercises should I do",
+      "answer": "Aim for a combination of cardiovascular exercises (such as walking, running, or cycling) to improve heart health, strength training exercises (like weight lifting) to build muscle and bone strength, and flexibility exercises (such as yoga or stretching) to maintain joint mobility and prevent injury."
+    },
+    {
+      "question": "how often should I exercise",
+      "answer": "It's recommended to aim for at least 150 minutes of moderate-intensity aerobic activity or 75 minutes of vigorous-intensity aerobic activity per week, along with muscle-strengthening activities on two or more days per week."
+    },
+    {
+      "question": "how can I stay motivated to exercise regularly",
+      "answer": "Find activities you enjoy and make them a regular part of your routine. Set achievable goals and celebrate your progress along the way. Surround yourself with supportive people who encourage you to stay active. Remember the benefits of exercise, both physical and mental, and focus on how good you feel after a workout."
+    },
+    {
+      "question": "what should I eat for breakfast",
+      "answer": "For a healthy breakfast, you can try oatmeal with fruits and nuts, or whole grain toast with avocado and eggs."
+    },
+    {
+      "question": "can you suggest a simple recipe for lunch",
+      "answer": "Sure! How about a spinach and feta omelette with whole grain toast, or a quinoa and black bean salad with a lemon-tahini dressing?"
+    },
+    {
+      "question": "what are some healthy snack options",
+      "answer": "Healthy snack options include fruits like apples or bananas, nuts and seeds, yogurt with berries, or whole grain crackers with hummus."
+    },
+    {
+      "question": "how can I maintain a balanced diet",
+      "answer": "To maintain a balanced diet, aim to include a variety of fruits, vegetables, whole grains, lean proteins, and healthy fats in your meals."
+    },
+    {
+      "question": "what are ideal nutrient macros to remain healthy",
+      "answer": "A general guideline for a balanced diet is to aim for about 45-65% of your daily calories from carbohydrates, 10-35% from protein, and 20-35% from fat."
+    },
+    {
+      "question": "why is good health important",
+      "answer": "Good health is important because it allows you to live a fulfilling life, free from illness and disease. It also improves your overall well-being, energy levels, and longevity."
+    },
+    {
+      "question": "how can I improve my sleeping habits",
+      "answer": "To improve your sleeping habits, try to maintain a consistent sleep schedule by going to bed and waking up at the same time every day, even on weekends. Create a relaxing bedtime routine to signal to your body that it's time to wind down, such as taking a warm bath, reading a book, or practicing relaxation techniques like deep breathing. Make sure your sleep environment is comfortable, quiet, and dark, and avoid screens and stimulating activities before bed."
+    },
+    {
+      "question": "how many hours of sleep do I need",
+      "answer": "Most adults need 7-9 hours of quality sleep per night to feel rested and refreshed. However, individual sleep needs may vary, so it's important to listen to your body and pay attention to how you feel during the day."
+    },
+    {
+      "question": "why is good sleep important",
+      "answer": "Good sleep is essential for overall health and well-being. It helps regulate mood and emotions, improves cognitive function and memory, supports immune function, and promotes physical recovery and repair. Getting enough quality sleep is also linked to a lower risk of chronic diseases like heart disease, diabetes, and obesity."
+    },
+    {
+      "question": "how can I fall asleep faster",
+      "answer": "To fall asleep faster, try to relax your body and mind before bed by engaging in calming activities like reading, listening to soothing music, or practicing relaxation techniques like deep breathing or progressive muscle relaxation. Avoid caffeine and stimulating activities in the evening, and create a comfortable sleep environment that is dark, quiet, and cool."
+    },
+    {
+      "question": "what are some good habits to start",
+      "answer": "Some good habits to start include exercising regularly, eating a balanced diet rich in fruits, vegetables, whole grains, and lean proteins, staying hydrated by drinking plenty of water, practicing mindfulness or meditation to reduce stress, and getting enough quality sleep each night."
+    },
+    {
+      "question": "what are some common bad habits to avoid",
+      "answer": "Some common bad habits to avoid include smoking or using tobacco products, excessive alcohol consumption, eating a diet high in processed foods, sugary snacks, and unhealthy fats, sedentary behavior or lack of physical activity, and neglecting self-care or ignoring signs of stress or burnout."
+    },
+    {
+      "question": "what can you do",
+      "answer": "I can answer any questions you have about: Eating Healthy, Excercise, Sleeping Habits, and more..."
+    },
+    {
+      "question": "what is your name",
+      "answer": "Healthy Eating And Lifestyle Tips, Helping You... or H.E.A.L.T.H.Y. for short"
+    },
+    {
+        "question": "breakfast",
+        "answer": "For breakfast, try oatmeal with fruits and nuts, whole grain toast with avocado and eggs, Greek yogurt with honey and granola, or a smoothie bowl with spinach, berries, and almond milk."
+      },
+      {
+        "question": "lunch",
+        "answer": "For lunch, you can try a quinoa and black bean salad with a lemon-tahini dressing, a grilled chicken and vegetable wrap with hummus, a turkey and avocado sandwich on whole grain bread, or a tuna salad with mixed greens and balsamic vinaigrette."
+      },
+      {
+        "question": "dinner",
+        "answer": "For dinner, consider options like baked salmon with roasted vegetables, stir-fried tofu with mixed greens and brown rice, a vegetable and chickpea curry served with quinoa, spaghetti squash with marinara sauce and turkey meatballs, or a grilled shrimp and avocado salad with citrus dressing."
+      },
+      {
+        "question": "dessert",
+        "answer": "For dessert, how about a fruit salad with a squeeze of lemon juice, a frozen banana blended into 'nice cream', a chia seed pudding with berries, or dark chocolate dipped frozen grapes?"
+      },
+      {
+        "question": "snack",
+        "answer": "Healthy snack options include fruits like apples or bananas, nuts and seeds, yogurt with berries, whole grain crackers with hummus, veggies with guacamole, or cottage cheese with pineapple."
+      },
+      {
+        "question": "sleep",
+        "answer": "To improve your sleep quality, establish a regular sleep schedule, create a relaxing bedtime routine, optimize your sleep environment, limit screen time before bed, avoid caffeine and heavy meals close to bedtime, and manage stress levels."
+      },
+      {
+        "question": "exercise",
+        "answer": "To improve your fitness, try incorporating a mix of cardiovascular exercises, strength training, and flexibility exercises into your routine. Consider activities like walking, jogging, cycling, swimming, weight lifting, yoga, or Pilates."
+      },
+      {
+        "question": "what should I eat for breakfast",
+        "answer": "For breakfast, try oatmeal with fruits and nuts, whole grain toast with avocado and eggs, Greek yogurt with honey and granola, or a smoothie bowl with spinach, berries, and almond milk."
+      },
+      {
+        "question": "lunch",
+        "answer": "For lunch, you can try a quinoa and black bean salad with a lemon-tahini dressing, a grilled chicken and vegetable wrap with hummus, a turkey and avocado sandwich on whole grain bread, or a tuna salad with mixed greens and balsamic vinaigrette."
+      },
+      {
+        "question": "dinner",
+        "answer": "For dinner, consider options like baked salmon with roasted vegetables, stir-fried tofu with mixed greens and brown rice, a vegetable and chickpea curry served with quinoa, spaghetti squash with marinara sauce and turkey meatballs, or a grilled shrimp and avocado salad with citrus dressing."
+      },
+      {
+        "question": "dessert",
+        "answer": "For dessert, how about a fruit salad with a squeeze of lemon juice, a frozen banana blended into 'nice cream', a chia seed pudding with berries, or dark chocolate dipped frozen grapes?"
+      },
+      {
+        "question": "snack",
+        "answer": "Healthy snack options include fruits like apples or bananas, nuts and seeds, yogurt with berries, whole grain crackers with hummus, veggies with guacamole, or cottage cheese with pineapple."
+      },
+      {
+        "question": "sleep",
+        "answer": "To improve your sleep quality, establish a regular sleep schedule, create a relaxing bedtime routine, optimize your sleep environment, limit screen time before bed, avoid caffeine and heavy meals close to bedtime, and manage stress levels."
+      },
+      {
+        "question": "exercise",
+        "answer": "To improve your fitness, try incorporating a mix of cardiovascular exercises, strength training, and flexibility exercises into your routine. Consider activities like walking, jogging, cycling, swimming, weight lifting, yoga, or Pilates."
+      }
+  ]
+}
